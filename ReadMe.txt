@@ -1,3 +1,5 @@
+Open index.html with a browser and follow along.
+
 Expected input : 
 1. Json array of objects having "name" and "birthday" properties only.
 2. In the birthday property input should be in (month/date/year) format.
